@@ -1,0 +1,7 @@
+# Dependencias do controlador fuzzy (Mini-Projeto 2)
+# Testado com Python 3.11+ (inclusive Python 3.14) e Google Colab.
+scikit-fuzzy==0.5.0
+numpy>=1.26
+scipy>=1.11
+networkx>=3.0
+matplotlib>=3.7
